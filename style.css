@@ -4,23 +4,25 @@ h1
     text-align: center;
 }
 
-li
-{
-    font-size: 40px;
-}
-
 img
 {
     height: auto;
     width: 400px;
 }
 
+.uvod,
 h2
 {
     font-size: 40px;
 }
 
 .tekst
+{
+    font-size: 36px;
+}
+
+.sastojci,
+.koraci
 {
     font-size: 36px;
 }
